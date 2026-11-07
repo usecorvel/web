@@ -6,7 +6,7 @@
 	"cleanUrls": true,
 	"rewrites": [
 		{
-			"source": "/:path(pricing|how-it-works|for-clinics|for-salons|integrations|about|contact)",
+			"source": "/:path(pricing|how-it-works|for-clinics|for-salons|for-physical-therapy|for-chiropractors|for-barbershops|integrations|about|contact)",
 			"destination": "/"
 		}
 	]
