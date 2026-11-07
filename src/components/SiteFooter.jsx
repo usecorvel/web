@@ -25,6 +25,9 @@ export default function SiteFooter() {
 					<ul>
 						<li><Link to="/for-clinics">Clinics</Link></li>
 						<li><Link to="/for-salons">Salons and spas</Link></li>
+						<li><Link to="/for-physical-therapy">Physical therapy</Link></li>
+						<li><Link to="/for-chiropractors">Chiropractors</Link></li>
+						<li><Link to="/for-barbershops">Barbershops</Link></li>
 					</ul>
 				</div>
 				<div>
